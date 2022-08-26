@@ -1,0 +1,20 @@
+when using react-navigation-drawer
+have to install react-native-reanimated first or it will crush
+and also put plugins inside babel.config.js
+and then run expo r -c 
+or expo start --clear
+
+https://stackoverflow.com/a/70516548
+
+
+
+
+NativaBase's Menu crashed the app
+
+solution = https://github.com/GeekyAnts/NativeBase/issues/4730#issuecomment-1093526143
+
+
+
+use multiple UseDisclose's native NativaBase
+
+https://github.com/chakra-ui/chakra-ui/discussions/3378
